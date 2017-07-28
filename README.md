@@ -5,6 +5,12 @@ ShadowsocksR
 
 A fast tunnel proxy that helps you bypass firewalls.
 
+This is a backup for ShadowsocksR - which got suspended on July 28, 2017. A Shame really.
+
+If you wish to install from this backup repository, you obviously need to change the folder structure in the git related compands below.
+
+##shadowsocks-rss-3.4.0-2017-07-27-BackUp
+
 Server
 ------
 
